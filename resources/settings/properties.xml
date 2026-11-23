@@ -1,0 +1,6 @@
+<properties>
+    <property id="theme" type="number">2</property>
+    <property id="units" type="number">0</property>
+    <property id="alerts" type="number">1</property>
+    <property id="dim" type="boolean">false</property>
+</properties>

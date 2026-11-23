@@ -1,0 +1,20 @@
+<strings>
+    <string id="AppName">Just Go 5K</string>
+
+    <string id="ThemeTitle">Colour theme</string>
+    <string id="ThemeTurquoise">Turquoise</string>
+    <string id="ThemePurple">Purple</string>
+    <string id="ThemeOrange">Orange</string>
+    <string id="ThemeYellow">Yellow</string>
+    <string id="ThemeForest">Forest</string>
+
+    <string id="UnitsTitle">Units</string>
+    <string id="UnitsAuto">Auto (match watch)</string>
+    <string id="UnitsImperial">Imperial (mi)</string>
+    <string id="UnitsMetric">Metric (km)</string>
+
+    <string id="AlertsTitle">Alerts</string>
+    <string id="AlertsVibe">Vibration only</string>
+    <string id="AlertsVibeTone">Vibration and tone</string>
+    <string id="DimTitle">Dim screen during runs</string>
+</strings>

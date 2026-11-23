@@ -1,0 +1,27 @@
+<settings>
+    <setting propertyKey="@Properties.theme" title="@Strings.ThemeTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ThemeTurquoise</listEntry>
+            <listEntry value="1">@Strings.ThemePurple</listEntry>
+            <listEntry value="2">@Strings.ThemeOrange</listEntry>
+            <listEntry value="3">@Strings.ThemeYellow</listEntry>
+            <listEntry value="4">@Strings.ThemeForest</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.units" title="@Strings.UnitsTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.UnitsAuto</listEntry>
+            <listEntry value="1">@Strings.UnitsImperial</listEntry>
+            <listEntry value="2">@Strings.UnitsMetric</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.alerts" title="@Strings.AlertsTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.AlertsVibe</listEntry>
+            <listEntry value="1">@Strings.AlertsVibeTone</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.dim" title="@Strings.DimTitle">
+        <settingConfig type="boolean" />
+    </setting>
+</settings>

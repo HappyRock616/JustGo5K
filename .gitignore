@@ -1,0 +1,12 @@
+# build output
+bin/
+gen/
+internal-mir/
+external-mir/
+*.prg.debug.xml
+*-settings.json
+# store packages are uploaded to Garmin, not kept in git
+store/release/
+# never commit signing keys
+*.der
+*.pem
